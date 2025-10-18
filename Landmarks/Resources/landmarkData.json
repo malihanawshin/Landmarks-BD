@@ -5,8 +5,8 @@
         "city": "Twentynine Palms",
         "state": "California",
         "id": 1001,
-        "isFeatured": true,
-        "isFavorite": true,
+        "isFeatured": false,
+        "isFavorite": false,
         "park": "Joshua Tree National Park",
         "coordinates": {
             "longitude": -116.166868,
@@ -38,7 +38,7 @@
         "state": "Alaska",
         "id": 1003,
         "isFeatured": false,
-        "isFavorite": true,
+        "isFavorite": false,
         "park": "Klondike Gold Rush National Historical Park",
         "coordinates": {
             "longitude": -135.334571,
@@ -53,8 +53,8 @@
         "city": "Browning",
         "state": "Montana",
         "id": 1004,
-        "isFeatured": true,
-        "isFavorite": true,
+        "isFeatured": false,
+        "isFavorite": false,
         "park": "Glacier National Park",
         "coordinates": {
             "longitude": -113.536248,
@@ -101,7 +101,7 @@
         "city": "Eaking",
         "state": "Alaska",
         "id": 1007,
-        "isFeatured": true,
+        "isFeatured": false,
         "isFavorite": false,
         "park": "Charley Rivers National Preserve",
         "coordinates": {
@@ -190,5 +190,73 @@
         },
         "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
         "imageName": "umbagog"
-    }
+    },
+    {
+        "name": "Cox's Bazar Beach",
+        "category": "Beaches",
+        "city": "Cox's Bazar",
+        "state": "Chattogram Division",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Cox's Bazar Sea Beach Area",
+        "coordinates": {
+            "longitude": 91.9743,
+            "latitude": 21.4272
+        },
+        "description": "Cox’s Bazar, located in southeastern Bangladesh, is home to the world’s longest natural sea beach, stretching over 120 kilometers along the Bay of Bengal. The beach is famous for its golden sands, gentle waves, and stunning sunsets. Tourists can enjoy swimming, surfing, and exploring nearby attractions such as Himchari, Inani Beach, and Saint Martin’s Island.",
+        "imageName": "coxsbazar"
+    },
+    {
+        "name": "Saint Martin’s Island",
+        "category": "Islands",
+        "city": "Teknaf",
+        "state": "Chattogram Division",
+        "id": 1014,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Saint Martin’s Marine Park",
+        "coordinates": {
+            "longitude": 92.3226,
+            "latitude": 20.6275
+        },
+        "description": "Saint Martin’s Island, locally known as 'Narikel Jinjira', is the only coral island in Bangladesh. Located in the Bay of Bengal, about 9 kilometers south of Teknaf, it is renowned for its crystal-clear waters, coral reefs, and coconut trees. The island offers a serene atmosphere, ideal for snorkeling, scuba diving, and enjoying fresh seafood while watching the sunset over the sea.",
+        "imageName": "saintmartinsisland"
+    },
+    {
+        "name": "The Sundarbans",
+        "category": "Forests",
+        "city": "Khulna",
+        "state": "Khulna Division",
+        "id": 1015,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Sundarbans Reserve Forest",
+        "coordinates": {
+            "longitude": 89.1833,
+            "latitude": 21.9497
+        },
+        "description": "The Sundarbans, located in the southwestern part of Bangladesh, is the largest mangrove forest in the world and a UNESCO World Heritage Site. Spanning over 10,000 square kilometers across Bangladesh and India, this unique ecosystem is interlaced with a complex network of tidal waterways, mudflats, and small islands, forming a natural barrier that protects the coastal regions from cyclones and tidal surges. The forest is home to the iconic Royal Bengal Tiger, saltwater crocodiles, spotted deer, and a remarkable diversity of bird and aquatic species. It plays a vital role in maintaining ecological balance, supporting thousands of local livelihoods through fishing, honey collection, and eco-tourism. \n\nVisitors to the Sundarbans can explore its serene beauty by boat, witnessing the tranquil waterways lined with dense mangroves and the occasional glimpse of wildlife. The area’s biodiversity, combined with its cultural significance, makes it one of Bangladesh’s most treasured natural wonders. Sustainable tourism efforts are ongoing to protect this fragile habitat while promoting awareness about conservation and the impacts of climate change on coastal ecosystems.",
+        "imageName": "sundarbans"
+    },
+    {
+    "name": "Sajek Valley",
+    "category": "Mountains",
+    "city": "Baghaichhari",
+    "state": "Rangamati Division",
+    "id": 1016,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Sajek Valley Hill Area",
+    "coordinates": {
+        "longitude": 92.3265,
+        "latitude": 23.3813
+    },
+    "description": "Sajek Valley, often called the 'Queen of Hills' and the 'Roof of Rangamati', is a breathtaking hill region located in the Chittagong Hill Tracts of Bangladesh. Perched at an altitude of about 1,800 feet, the valley offers mesmerizing views of rolling hills, floating clouds, and lush green forests. It is a tranquil escape for travelers seeking peace, adventure, and a touch of indigenous culture. The valley derives its name from the Sajek River, which flows along the border between Bangladesh and India. \n\nThe journey to Sajek is as captivating as the destination itself, winding through steep roads, dense forests, and tribal villages. Visitors can experience the warm hospitality of the local ethnic communities such as the Chakma, Marma, and Tripura people, who live in harmony with nature. Popular spots within Sajek include Ruilui Para and Konglak Para, both known for their panoramic sunrise and sunset views. With its serene environment, cool mountain breeze, and star-filled nights, Sajek Valley has become one of Bangladesh’s most popular eco-tourism destinations, offering a perfect blend of natural beauty and cultural richness.",
+    "imageName": "sajek"
+}
+
+
+
+
 ]

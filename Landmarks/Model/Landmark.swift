@@ -29,6 +29,9 @@ struct Landmark: Hashable, Codable, Identifiable {
         case lakes = "Lakes"
         case rivers = "Rivers"
         case mountains = "Mountains"
+        case beaches = "Beaches"
+        case islands = "Islands"
+        case forests = "Forests"
     }
     
     private var coordinates: Coordinates
