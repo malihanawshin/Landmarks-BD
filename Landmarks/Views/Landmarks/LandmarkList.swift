@@ -35,7 +35,7 @@ struct LandmarkList: View {
                 }
             }
             .animation(.default, value: filteredLandmarks)
-            .navigationTitle("Landmarks")
+            .navigationTitle("Landmarks 🇧🇩")
         } detail: {
             Text("Select a landmark")
         }

@@ -34,6 +34,11 @@ struct Landmark: Hashable, Codable, Identifiable {
         case forests = "Forests"
     }
     
+    
+    var featureImage: Image? {
+        isFeatured ? Image(imageName + "_feature") : nil
+    }
+    
     private var coordinates: Coordinates
     
     var locationCoordinate: CLLocationCoordinate2D {
